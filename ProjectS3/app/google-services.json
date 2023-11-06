@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "61505252294",
+    "firebase_url": "https://washbuddy-6a74a-default-rtdb.firebaseio.com",
+    "project_id": "washbuddy-6a74a",
+    "storage_bucket": "washbuddy-6a74a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61505252294:android:d8c55d50b58e495550a0c7",
+        "android_client_info": {
+          "package_name": "com.example.washbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61505252294-2f1e9t6dn5hvsqlta2vb4rn2476evush.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ6leaJRJz8o1ATsFzP9m03s3GT6UoPME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61505252294-2f1e9t6dn5hvsqlta2vb4rn2476evush.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">washBuddy</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>none</item>
+        <item>Punjab</item>
+        <item>Haryana</item>
+    </string-array>
+
+    <string-array name="City">
+        <item>none</item>
+        <item>Mohali</item>
+        <item>Gurugram</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+</resources>
